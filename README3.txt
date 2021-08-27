@@ -1,4 +1,4 @@
-1
+This is a visible change on the first line!
 2
 3
 4

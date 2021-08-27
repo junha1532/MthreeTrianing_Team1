@@ -2,7 +2,7 @@ This is a visible change on the first line!
 2
 3
 4
-5
+This is a little ditty about Jack.
 6
 7
 8
